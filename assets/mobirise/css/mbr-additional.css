@@ -1810,30 +1810,8 @@ body {
 .cid-qW7aueNnTl blockquote {
   color: #767676;
 }
-.cid-qW8DS4xlE8 {
-  padding-top: 0px;
-  padding-bottom: 0px;
-  background-color: #ffffff;
-}
-.cid-qW8DS4xlE8 h3 {
-  text-align: center;
-}
-.cid-qW8DS4xlE8 .mbr-section-subtitle {
-  color: #767676;
-  font-weight: 300;
-}
-.cid-qW8DS4xlE8 .mbr-content-text {
-  color: #767676;
-}
-.cid-qW8DS4xlE8 .panel-item {
-  background: #ffffff;
-}
-.cid-qW8DS4xlE8 .card {
-  word-wrap: break-word;
-}
-.cid-qW8DS4xlE8 .mbr-iconfont {
-  font-size: 80px;
-  color: #149dcc;
+.cid-qW7aueNnTl .mbr-text {
+  text-align: left;
 }
 .cid-qTuIT5Cc88 .navbar {
   background: #ffffff;
