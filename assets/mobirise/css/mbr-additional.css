@@ -2879,11 +2879,35 @@ body {
 }
 .cid-qW6hqVmomw {
   padding-top: 90px;
-  padding-bottom: 60px;
+  padding-bottom: 0px;
   background-color: #ffffff;
 }
 .cid-qW6hqVmomw .mbr-section-subtitle {
   color: #767676;
+}
+.cid-qYaVScY6L2 {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background: #ffffff;
+}
+.cid-qYaVScY6L2 .image-block {
+  margin: auto;
+}
+.cid-qYaVScY6L2 .mbr-figure {
+  margin: 0 auto;
+}
+.cid-qYaVScY6L2 figcaption {
+  position: relative;
+}
+.cid-qYaVScY6L2 figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-qYaVScY6L2 .image-block {
+    width: 100% !important;
+  }
 }
 .cid-qW6hyGYQvw {
   padding-top: 60px;
